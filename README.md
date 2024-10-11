@@ -8,3 +8,5 @@ We built the game and the controller at the same time. We then decided which lev
 https://devpost.com/software/controlit
 
 ![gallery](https://github.com/user-attachments/assets/0266c3c4-4f0c-4120-9389-d81f0f4c66ec)
+
+![gallery (1)](https://github.com/user-attachments/assets/10ce923f-3fbd-4b78-a651-7d464fd52ea2)
